@@ -1,0 +1,11 @@
+C:\Users\mklr9\source\repos\LetrasRepetidas\LetrasRepetidas\bin\Debug\netcoreapp3.0\LetrasRepetidas.exe
+C:\Users\mklr9\source\repos\LetrasRepetidas\LetrasRepetidas\bin\Debug\netcoreapp3.0\LetrasRepetidas.deps.json
+C:\Users\mklr9\source\repos\LetrasRepetidas\LetrasRepetidas\bin\Debug\netcoreapp3.0\LetrasRepetidas.runtimeconfig.json
+C:\Users\mklr9\source\repos\LetrasRepetidas\LetrasRepetidas\bin\Debug\netcoreapp3.0\LetrasRepetidas.runtimeconfig.dev.json
+C:\Users\mklr9\source\repos\LetrasRepetidas\LetrasRepetidas\bin\Debug\netcoreapp3.0\LetrasRepetidas.dll
+C:\Users\mklr9\source\repos\LetrasRepetidas\LetrasRepetidas\bin\Debug\netcoreapp3.0\LetrasRepetidas.pdb
+C:\Users\mklr9\source\repos\LetrasRepetidas\LetrasRepetidas\obj\Debug\netcoreapp3.0\LetrasRepetidas.csprojAssemblyReference.cache
+C:\Users\mklr9\source\repos\LetrasRepetidas\LetrasRepetidas\obj\Debug\netcoreapp3.0\LetrasRepetidas.AssemblyInfoInputs.cache
+C:\Users\mklr9\source\repos\LetrasRepetidas\LetrasRepetidas\obj\Debug\netcoreapp3.0\LetrasRepetidas.AssemblyInfo.cs
+C:\Users\mklr9\source\repos\LetrasRepetidas\LetrasRepetidas\obj\Debug\netcoreapp3.0\LetrasRepetidas.dll
+C:\Users\mklr9\source\repos\LetrasRepetidas\LetrasRepetidas\obj\Debug\netcoreapp3.0\LetrasRepetidas.pdb
